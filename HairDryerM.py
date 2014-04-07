@@ -6,8 +6,8 @@ Created on Sun Apr 06 20:08:14 2014
 """
 
 # Imports and setup
-import u6
-d = u6.U6()
+#import u6
+#d = u6.U6()
 
 import time
 import thread
